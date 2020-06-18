@@ -4,8 +4,12 @@
     list-style: none;
     box-sizing: border-box;
 }
+
 body{
     background-color: #e5e5e5;
+}
+p{
+    font-size: 18px;
 }
 header{
     display: flex;
